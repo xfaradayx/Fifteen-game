@@ -1,0 +1,12 @@
+#desk {
+    /* width: 500px;
+    height: 500px; */
+    border:1px solid black;
+    line-height: 0px;
+}
+
+body {
+    position: relative;
+    line-height: 0px;
+    margin: 0 auto;
+}
